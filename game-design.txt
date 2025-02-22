@@ -25,3 +25,12 @@ manera efectiva.
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. 
 Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de 
 juego fluida y atractiva. 
+
+##Persona C (Jonathan Rios)
+[TECNOLOGÍA]: "Unity con gráficos 2D animados".
+
+[PLATAFORMAS]: "PC, tabletas y Chromebooks".
+
+[CARACTERÍSTICAS TÉCNICAS ADICIONALES]: "Soporte multijugador para colaborar en la creación de historias y un modo de realidad aumentada opcional".
+
+[MÉTODO]: "Preguntas interactivas al final de cada capítulo, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva".
