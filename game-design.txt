@@ -1,16 +1,14 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA] 
+Aprende con la IU es un videojuego educativo diseñado para enseñar Lenguaje y Literatura 
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y 
+La historia se desarrolla en El Bosque de las Palabras, un mundo encantado donde los árboles susurran historias, los ríos fluyen con tinta y las nubes forman poemas en el cielo., un mundo lleno de misterios, desafíos y 
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
 juego está diseñado para combinar diversión y educación, permitiendo que los 
 estudiantes adquieran conocimientos de manera natural mientras exploran, 
 resuelven problemas y superan obstáculos.
  
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE 
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión 
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE] 
-deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
-los jugadores conceptos clave de [MATERIA]. 
+El protagonista de esta aventura es Elio, Elio es un joven de estatura media con cabello rizado color marrón, gafas redondas que brillan cuando lee y una bufanda tejida con letras que se reorganizan solas. Es creativo, soñador y tiene un talento natural para encontrar significados ocultos en las palabras.  
+Elio es un/a narrador errante que ha sido elegido/a para una misión única: rescatar las historias perdidas del Bosque de las Palabras antes de que desaparezcan para siempre. Con su habilidad especial para transformar palabras en objetos mágicos, Elio deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Lenguaje y Literatura. 
+
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
 incluirán [TIPO DE DESAFÍOS] 
 
