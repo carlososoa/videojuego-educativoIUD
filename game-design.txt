@@ -1,4 +1,4 @@
-Aprende con la IU es un videojuego educativo diseñado para enseñar Lenguaje y Literatura 
+Aprende con la IU es un videojuego educativo diseñado para enseñar Lenguaje y Literatura
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
 La historia se desarrolla en El Bosque de las Palabras, un mundo encantado donde los árboles susurran historias, los ríos fluyen con tinta y las nubes forman poemas en el cielo., un mundo lleno de misterios, desafíos y 
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
@@ -9,15 +9,11 @@ resuelven problemas y superan obstáculos.
 El protagonista de esta aventura es Elio, Elio es un joven de estatura media con cabello rizado color marrón, gafas redondas que brillan cuando lee y una bufanda tejida con letras que se reorganizan solas. Es creativo, soñador y tiene un talento natural para encontrar significados ocultos en las palabras.  
 Elio es un/a narrador errante que ha sido elegido/a para una misión única: rescatar las historias perdidas del Bosque de las Palabras antes de que desaparezcan para siempre. Con su habilidad especial para transformar palabras en objetos mágicos, Elio deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Lenguaje y Literatura. 
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos 
-incluirán [TIPO DE DESAFÍOS] 
+El jugador podrá crear rimas y frases con un libro mágico interactivo, para avanzar deberá descifrar mensajes ocultos en textos antiguos y los desafíos 
+incluirán adivinanzas lingüísticas, construcción de historias y análisis de personajes
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO 
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su 
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará 
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante 
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de 
+Los estudiantes avanzarán mediante un sistema de capítulos narrativos donde cada etapa superada desbloquea una nueva historia. Cada nivel representa el dominio de habilidades como la comprensión lectora, la gramática o la escritura creativa, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros. 
+Los jugadores aprenderán vocabularios nuevos mediante juegos de asociación de palabras. Se reforzará la estructura narrativa a través de crear mini-relatos con personajes del juego y las evaluaciones se realizarán mediante preguntas interactivas al final de cada capítulo, lo que permitirá a los profesores y estudiantes medir el progreso de 
 manera efectiva. 
 
 El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. 
