@@ -1,4 +1,4 @@
-Aprende con la IU es un videojuego educativo diseñado para enseñar Lenguaje y Literatura 
+Aprende con la IU es un videojuego educativo diseñado para enseñar Lenguaje y Literatura
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
 La historia se desarrolla en El Bosque de las Palabras, un mundo encantado donde los árboles susurran historias, los ríos fluyen con tinta y las nubes forman poemas en el cielo., un mundo lleno de misterios, desafíos y 
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
